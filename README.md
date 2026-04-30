@@ -60,3 +60,7 @@
 <div align="center">
  <img src="https://img.shields.io/badge/Open%20to%20Work-%2300B16A?style=for-the-badge&logo=briefcase&logoColor=white"/>
 </div>
+
+<div align="center">
+  <img src="https://github.com/enryco4real/enryco4real/blob/output/github-contribution-grid-snake-dark.svg"/>
+</div>
