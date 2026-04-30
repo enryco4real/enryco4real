@@ -21,14 +21,6 @@
 
 ---
 
-### 🏆 Troféus
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=enryco4real&theme=nord&row=1&no-bg=true&margin-w=10"/>
-</div>
-
----
-
 ### 📊 Estatísticas
 
 <div align="center">
@@ -66,5 +58,5 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=enryco4real&color=5e81ac&style=flat-square&label=Visitas+ao+perfil"/>
+ <img src="https://img.shields.io/badge/Open%20to%20Work-%2300B16A?style=for-the-badge&logo=briefcase&logoColor=white"/>
 </div>
