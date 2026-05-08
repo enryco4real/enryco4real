@@ -24,12 +24,20 @@
 ### 📊 Estatísticas
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=enryco4real&show_icons=true&theme=nord"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enryco4real&layout=compact&theme=nord"/>
+
+<img height="150em" 
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=enryco4real&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+
+<img height="150em" 
+src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=enryco4real&layout=compact&theme=nord"/>
+
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=enryco4real&theme=nord&hide_border=false"/>
+
+<img 
+src="https://streak-stats.demolab.com?user=enryco4real&theme=nord&hide_border=false"/>
+
 </div>
 
 ---
