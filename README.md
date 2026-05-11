@@ -15,7 +15,7 @@
 ### 🙋 Sobre mim
 
 - 🌱 **Estudando:** HTML, CSS, JavaScript, Java & Kotlin
-- 🎮 **Projetos:** Jogo 2D Runner em C# · App para feira escolar (em andamento)
+- 🎮 **Projetos:** Jogo **institucional** 2D Runner em C# · Site de E-commerce **institucional** · App **institucional** para facilitar encontro de empresas e funcionários **(em andamento)**
 - 🎯 **Objetivo:** Ingressar em ADS em 2027
 - ⚡ **Fun fact:** Estou no Ensino Médio integral com técnico em TI e já tenho projetos em mente.
 
