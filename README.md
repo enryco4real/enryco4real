@@ -21,14 +21,11 @@
 
 ---
 
-### 📊 Dados
+## 📊 Dados
 
 <div align="center">
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=enryco4real&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enryco4real&layout=compact&theme=nord"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=enryco4real&show_icons=true&theme=dark&hide_border=true" alt="Estatísticas do GitHub" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enryco4real&layout=compact&theme=dark&hide_border=true" alt="Linguagens Mais Usadas" height="150" />
 </div>
 
 ---
@@ -57,9 +54,9 @@
 ---
 
 <div align="center">
- <img src="https://img.shields.io/badge/Open%20to%20Work-%2300B16A?style=for-the-badge&logo=briefcase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open%20to%20Work-%2300B16A?style=for-the-badge&logo=briefcase&logoColor=white"/>
 </div>
 
 <div align="center">
-  <img src="https://github.com/enryco4real/enryco4real/blob/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github.com/enryco4real/enryco4real/raw/output/github-contribution-grid-snake-dark.svg"/>
 </div>
