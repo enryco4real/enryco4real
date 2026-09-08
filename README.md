@@ -25,12 +25,9 @@
 
 <div align="center">
 
-<img height="150em" 
-src="https://github-readme-stats-sigma-five.vercel.app/api?username=enryco4real&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=enryco4real&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
 
-
-<img height="150em" 
-src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=enryco4real&layout=compact&theme=nord"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enryco4real&layout=compact&theme=nord"/>
 
 </div>
 
